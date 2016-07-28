@@ -1,0 +1,29 @@
+{
+  "name": "ev-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apexcode7/cc-bot.git"
+  },
+  "keywords": [
+    "cc-bot",
+    "bot"
+  ],
+  "author": "krishna prashanth prabhat nisha tripti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apexcode7/cc-bot/issues"
+  },
+  "homepage": "https://github.com/apexcode7/cc-bot#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.74.0"
+  }
+}
